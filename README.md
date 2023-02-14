@@ -31,7 +31,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse Project Readme</b></h3>
 
 </div>
 
@@ -59,9 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
 **[Hello Microverse]** is a project to master version control and learn best practices of the Microverse GitHub flow.
 
@@ -101,7 +99,6 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
 <!--
 Example command:
 
@@ -207,8 +204,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project please star this repository.
 
